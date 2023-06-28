@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.football{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+}
+span{
+    color: orangered;
+}
+p{
+    padding-bottom: 0.5rem;
+    padding-top: 2rem;
+}
+button{
+    padding: 10px 15px;
+    background-color: blueviolet;
+    border: none;
+}
+.bet{background-color: orangered;
+     border: none;
+     color: white;}
+     h1{
+        padding-bottom: 0.5rem;
+     }
+     h3{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+     }
